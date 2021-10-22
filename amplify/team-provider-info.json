@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-automateinvoice-dev-95648-authRole",
+            "UnauthRoleArn": "arn:aws:iam::211544418920:role/amplify-automateinvoice-dev-95648-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::211544418920:role/amplify-automateinvoice-dev-95648-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-automateinvoice-dev-95648-deployment",
+            "UnauthRoleName": "amplify-automateinvoice-dev-95648-unauthRole",
+            "StackName": "amplify-automateinvoice-dev-95648",
+            "StackId": "arn:aws:cloudformation:us-east-1:211544418920:stack/amplify-automateinvoice-dev-95648/4912c730-32f0-11ec-b07d-0eca20e833ab",
+            "AmplifyAppId": "d1jroau1objqc0"
+        },
+        "categories": {
+            "auth": {
+                "automateinvoicea1b2562a": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1jroau1objqc0",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}
